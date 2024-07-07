@@ -3,7 +3,7 @@ const router = express.Router();
 const fs = require('fs');
 const path = require('path');
 
-// Endpoint to get country details by ID
+
 router.get('/:countryid', (req, res) => {
   const countryId = req.params.countryid;
   const filePath = path.join(__dirname, 'CountriesDetails.json');

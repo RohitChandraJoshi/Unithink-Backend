@@ -3,7 +3,7 @@ const router = express.Router();
 const fs = require('fs');
 const path = require('path');
 
-// Endpoint to get course details by ID
+
 router.get('/:courseId', (req, res) => {
   const courseId = req.params.courseId;
   const filePath = path.join(__dirname, 'CoursesDetails.json');

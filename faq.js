@@ -1,13 +1,13 @@
-// FAQ.js
+
 const express = require('express');
 const router = express.Router();
 const fs = require('fs');
 const path = require('path');
 
-// Define the path to the FAQ JSON file
+
 const filePath = path.join(__dirname, 'FAQ.json');
 
-// Route to get all FAQs
+
 router.get('/', (req, res) => {
   fs.readFile(filePath, 'utf8', (err, data) => {
     if (err) {

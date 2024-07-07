@@ -2,7 +2,6 @@ const express = require('express');
 const router = express.Router();
 const mongoose = require('mongoose');
 
-// Define the schema
 const contactSchema = new mongoose.Schema({
   name: {
     type: String,
@@ -38,10 +37,10 @@ const contactSchema = new mongoose.Schema({
   }
 });
 
-// Create the model
+
 const Contact = mongoose.model('Students', contactSchema);
 
-// Define the route for form submission
+
 router.post('/', async (req, res) => {
   try {
     const contact = new Contact(req.body);
