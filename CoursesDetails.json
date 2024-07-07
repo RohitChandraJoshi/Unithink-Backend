@@ -1,0 +1,761 @@
+[
+  {
+    "course_name": "Business Administration",
+    "courseId": "course001",
+    "top_image": "https://firebasestorage.googleapis.com/v0/b/unithink-89630.appspot.com/o/UniThink%20courses%20pages%20images%2Fbusinessadministration.png?alt=media&token=a642dfba-7785-48ea-9809-0f41d5abba2e",
+    "countries": {
+      "United States": {
+        "1": "Top Institutions: Harvard Business School, Stanford Graduate School of Business, Wharton School at the University of Pennsylvania.",
+        "2": "Industry Opportunities: Home to numerous multinational corporations and start-ups.",
+        "3": "Networking: Strong alumni networks and connections with industry leaders."
+      },
+      "United Kingdom": {
+        "1": "Leading Universities: London Business School, University of Oxford (Said Business School), University of Cambridge (Judge Business School).",
+        "2": "Global Financial Hub: Proximity to major financial centers like London."
+      },
+      "Canada": {
+        "1": "Quality Education: Rotman School of Management (University of Toronto), Ivey Business School (Western University), Schulich School of Business (York University).",
+        "2": "Immigration Policies: Favorable post-graduation work opportunities."
+      },
+      "Germany": {
+        "1": "Renowned Programs: Mannheim Business School, ESMT Berlin.",
+        "2": "Affordable Education: Low or no tuition fees for international students.",
+        "3": "Strong Economy: Leading business and industrial sectors."
+      },
+      "Singapore": {
+        "1": "Strategic Location: Gateway to Asian markets.",
+        "2": "Top Institutions: INSEAD (Singapore campus), National University of Singapore (NUS) Business School.",
+        "3": "Business Environment: Strong government support and vibrant economy."
+      },
+      "United Arab Emirates": {
+        "1": "Top Institutions: American University in Dubai (School of Business Administration), University of Wollongong in Dubai (Faculty of Business).",
+        "2": "Strategic Location: Gateway to Middle Eastern and African markets.",
+        "3": "Business Environment: Strong government support for business and innovation."
+      },
+      "France": {
+        "1": "Leading Universities: INSEAD (Fontainebleau), ESSEC Business School, EDHEC Business School.",
+        "2": "Global Network: Extensive alumni networks and strong ties with European businesses.",
+        "3": "Cultural Hub: Exposure to international culture and language skills."
+      },
+      "Australia": {
+        "1": "Top Institutions: Bond University (Bond Business School), University of Technology Sydney (UTS Business School), Australian Catholic University (Peter Faber Business School).",
+        "2": "Quality of Life: High living standards and multicultural environment.",
+        "3": "Post-Graduation Opportunities: Favorable immigration policies and work opportunities."
+      },
+      "Sweden": {
+        "1": "Renowned Programs: Stockholm School of Economics, Jönköping International Business School.",
+        "2": "Innovative Environment: Strong focus on innovation and entrepreneurship.",
+        "3": "Sustainable Business Practices: Leading in sustainability and green business practices."
+      },
+      "Japan": {
+        "1": "Top Institutions: Globis University, NUCB Business School.",
+        "2": "Industry Leadership: Access to leading technology and manufacturing industries.",
+        "3": "Cultural Exposure: Unique blend of traditional and modern business practices."
+      },
+      "India": {
+        "1": "Leading Universities: ISME(International School of Management & Engineering) Bangalore, SP Jain Institute of Management and Research (SPJIMR), Amity Business School, Narsee Monjee Institute of Management Studies (NMIMS).",
+        "2": "Growing Economy: Rapidly expanding market with numerous business opportunities.",
+        "3": "Diverse Culture: Exposure to a diverse and dynamic cultural environment."
+      }
+    },
+    "country_conclusion": "These countries offer world-class business education, excellent career prospects, and strong industry connections, making them ideal for pursuing a degree in Business Administration. Ultimately is the best country for studying Business Administration depends on factors such as personal preferences, career goals, language proficiency, and budget. It's essential to research each country's offerings, program curriculum, faculty expertise, and post-graduation opportunities to make an informed decision.",
+    "career_opportunities": {
+      "1": "Management Consulting: Advising businesses on strategy, operations, and management.",
+      "2": "Investment Banking: Facilitating mergers, acquisitions, and financial transactions.",
+      "3": "Corporate Finance: Managing a company's financial activities and strategies.",
+      "4": "Product Management: Overseeing product development from conception to market launch.",
+      "5": "Entrepreneurship: Starting and managing new business ventures.",
+      "6": "Marketing Management: Developing and implementing marketing strategies.",
+      "7": "Operations Management: Streamlining business operations for efficiency.",
+      "8": "Human Resources Management: Managing employee relations and organizational development.",
+      "9": "Tech Management: Leading projects and teams in technology companies.",
+      "10": "Healthcare Administration: Overseeing operations in healthcare facilities."
+    },
+    "career_conclusion": "These roles can be found in various sectors such as finance, technology, healthcare, consumer goods, and more. Each offers unique challenges and growth opportunities, making them attractive for MBA graduates."
+  },
+  {
+      "course_name": "Data Science/Analytics and Machine Learning",
+      "courseId": "course002",
+      "top_image": "https://firebasestorage.googleapis.com/v0/b/unithink-89630.appspot.com/o/UniThink%20courses%20pages%20images%2Fdatascience.png?alt=media&token=2f2b3191-ff30-4f05-a7a4-8d3f6e996b44",
+      "countries": {
+        "United States": {
+          "1": "Leading Universities: MIT, Stanford, UC Berkeley, Carnegie Mellon.",
+          "2": "Industry Opportunities: Proximity to tech hubs like Silicon Valley and major tech companies (Google, Facebook, Amazon).",
+          "3": "Research & Innovation: Strong focus on cutting-edge research and innovation in AI and machine learning."
+        },
+        "United Kingdom": {
+          "1": "Top Institutions: University of Oxford, University of Cambridge, Imperial College London.",
+          "2": "Global Recognition: Renowned for high academic standards and research excellence.",
+          "3": "Industry Links: Strong connections with tech companies and research institutions."
+        },
+        "Canada": {
+          "1": "Quality Education: Universities like the University of Toronto and University of British Columbia offer excellent programs.",
+          "2": "Immigration Policies: Favorable policies for international students and post-study work opportunities.",
+          "3": "Tech Ecosystem: Growing tech industry and strong support for AI research and startups."
+        },
+        "Germany": {
+          "1": "Reputation for Engineering and Technology: Technical University of Munich, University of Heidelberg.",
+          "2": "Affordable Education: Low tuition fees and high-quality education.",
+          "3": "Research Opportunities: Robust funding for research and collaboration with industries."
+        },
+        "Singapore": {
+          "1": "Strategic Location: Hub for technology and finance in Asia.",
+          "2": "Top Universities: National University of Singapore (NUS), Nanyang Technological University (NTU).",
+          "3": "Industry Collaboration: Strong partnerships with tech giants and startups."
+        },
+        "United Arab Emirates": {
+          "1": "Top Institutions: American University in Dubai, Heriot-Watt University Dubai.",
+          "2": "Strategic Location: Hub for technology and finance in the Middle East.",
+          "3": "Industry Collaboration: Strong partnerships with tech companies and local startups."
+        },
+        "France": {
+          "1": "Leading Universities: ESCP Business School, SKEMA Business School.",
+          "2": "Global Recognition: Renowned for high academic standards and innovative research.",
+          "3": "Industry Links: Strong connections with European tech companies and research institutions."
+        },
+        "Australia": {
+          "1": "Top Institutions: Bond University, University of Technology Sydney, Australian Catholic University.",
+          "2": "Quality of Life: High living standards and a multicultural environment.",
+          "3": "Post-Graduation Opportunities: Favorable immigration policies and strong industry connections."
+        },
+        "Sweden": {
+          "1": "Renowned Programs: Stockholm School of Economics, Jönköping University.",
+          "2": "Innovative Environment: Strong focus on innovation and entrepreneurship.",
+          "3": "Sustainable Business Practices: Leading in sustainability and green business practices."
+        },
+        "Japan": {
+          "1": "Top Institutions: International University of Japan, Globis University.",
+          "2": "Industry Leadership: Access to leading technology and manufacturing industries.",
+          "3": "Cultural Exposure: Unique blend of traditional and modern business practices."
+        },
+        "India": {
+          "1": "Leading Universities: Manipal Academy of Higher Education, Vellore Institute of Technology, Amity University.",
+          "2": "Growing Economy: Rapidly expanding market with numerous business opportunities.",
+          "3": "Diverse Culture: Exposure to a diverse and dynamic cultural environment."
+        }
+      },
+      "country_conclusion": "Each of these countries offers a strong educational foundation, vibrant industry connections, and opportunities for research and career advancement in data analytics and machine learning.",
+      "career_opportunities": {
+        "1": "Data Scientist: Data scientists analyze complex data to uncover insights and solve business problems. They use a combination of statistical analysis, machine learning, and programming to extract meaning from data.",
+        "2": "Data Analyst: Data analysts focus on interpreting data, analyzing results, and using statistical techniques to provide insights that help improve business decisions. They often work with large datasets to identify trends and patterns.",
+        "3": "Machine Learning Engineer: Machine learning engineers design and implement machine learning algorithms and models. They work closely with data scientists to deploy these models into production systems.",
+        "4": "Business Intelligence (BI) Analyst: BI analysts use data to help businesses make informed decisions. They gather and analyze data from various sources to provide insights into business performance.",
+        "5": "Data Engineer: Data engineers design, build, and maintain the infrastructure required for data generation, collection, and storage. They work closely with data scientists and analysts to ensure data is easily accessible and usable.",
+        "6": "Artificial Intelligence (AI) Research Scientist: AI research scientists conduct research to develop new machine learning and AI algorithms. They work on cutting-edge technologies to solve complex problems.",
+        "7": "Data Architect: Data architects design and create the structures that hold data, ensuring that it is reliable and accessible. They work closely with IT teams to design databases and data management systems.",
+        "8": "Statistician: Statisticians use statistical techniques to analyze data and interpret results. They work in a variety of industries, including healthcare, finance, and government.",
+        "9": "Quantitative Analyst (Quant): Quants develop mathematical models to analyze financial markets and risk. They work in the finance industry to help make informed investment decisions.",
+        "10": "Data Science Manager/Director: Data science managers and directors oversee data science teams, ensuring that projects are on track and align with business goals. They also collaborate with other departments to drive data-driven decisions."
+      },
+      "career_conclusion": "These are just a few examples of the many career opportunities available in data science, analytics, and machine learning. As these fields continue to evolve, new roles and opportunities are likely to emerge, creating a dynamic and exciting landscape for those interested in pursuing a career in these fields."
+    },
+    
+    {
+      "course_name": "Computer Science/IT",
+      "courseId": "course003",
+      "top_image": "https://firebasestorage.googleapis.com/v0/b/unithink-89630.appspot.com/o/UniThink%20courses%20pages%20images%2Fcomputerscience.png?alt=media&token=d1e83e44-91c1-497f-8628-9c3dfbbbaafd",
+      "countries": {
+        "United States": {
+          "1": "Top Institutions: MIT, Stanford, UC Berkeley, Carnegie Mellon.",
+          "2": "Tech Industry Hub: Proximity to Silicon Valley and major tech companies (Google, Apple, Microsoft).",
+          "3": "Research & Innovation: Strong focus on cutting-edge research, innovation, and startup culture."
+        },
+        "United Kingdom": {
+          "1": "Leading Universities: University of Oxford, University of Cambridge, Imperial College London.",
+          "2": "Academic Excellence: Renowned for rigorous academic programs and research.",
+          "3": "Industry Links: Strong connections with tech firms and research institutions."
+        },
+        "Canada": {
+          "1": "Quality Education: University of Toronto, University of British Columbia, University of Waterloo.",
+          "2": "Immigration Policies: Favorable policies for international students and post-study work opportunities.",
+          "3": "Tech Ecosystem: Thriving tech industry and significant investments in research and development."
+        },
+        "Germany": {
+          "1": "Reputation for Engineering and Technology: Technical University of Munich, University of Heidelberg.",
+          "2": "Affordable Education: Low tuition fees with high-quality education.",
+          "3": "Research Opportunities: Robust funding for research and strong industry collaborations."
+        },
+        "Singapore": {
+          "1": "Strategic Location: A tech hub in Asia with strong government support for tech innovation.",
+          "2": "Top Universities: National University of Singapore (NUS), Nanyang Technological University (NTU).",
+          "3": "Industry Collaboration: Extensive partnerships with global tech companies and startups."
+        },
+        "United Arab Emirates": {
+          "1": "Top Institutions: American University in Dubai, Heriot-Watt University Dubai.",
+          "2": "Admission: Private universities in the UAE, such as Middlesex University Dubai and Murdoch University Dubai, offer accessible admissions for international students.",
+          "3": "Industry Collaboration: Strong partnerships with local tech firms and multinational corporations."
+        },
+        "France": {
+          "1": "Leading Universities: École Polytechnique, Paris-Saclay University, Télécom Paris.",
+          "2": "Admission: Private institutions like ESME Sudria and École de Technologie Supérieure (ETS) Paris offer accessible admissions for international students.",
+          "3": "Industry Links: Close ties with French tech startups and established companies."
+        },
+        "Australia": {
+          "1": "Top Institutions: University of Melbourne, Australian National University, University of Sydney.",
+          "2": "Admission: Private universities in Australia, such as Bond University and Griffith University, offer accessible admissions for international students.",
+          "3": "Industry Engagement: Strong connections with Australia's tech industry and research organizations."
+        },
+        "Sweden": {
+          "1": "Leading Universities: KTH Royal Institute of Technology, Lund University, Chalmers University of Technology.",
+          "2": "Admission: Private universities in Sweden, like Stockholm School of Economics and Jönköping University, offer accessible admissions for international students.",
+          "3": "Research Collaboration: Opportunities to collaborate with Swedish tech companies and startups."
+        },
+        "Japan": {
+          "1": "Top Institutions: University of Tokyo, Kyoto University, Tokyo Institute of Technology.",
+          "2": "Admission: Private universities in Japan, such as Keio University and Waseda University, offer accessible admissions for international students.",
+          "3": "Industry Partnerships: Collaborations with Japanese tech giants and innovative startups."
+        },
+        "India": {
+          "1": "Leading Universities: Indian Institute of Technology (IIT), Indian Institute of Science (IISc), Anna University.",
+          "2": "Admission: Private universities in India, like VIT Vellore and SRM University, offer accessible admissions for international students.",
+          "3": "Industry Connections: Opportunities to engage with India's booming tech industry and startups."
+        }
+      },
+      "country_conclusion": "These countries offer excellent education, vibrant tech ecosystems, and strong career prospects for Computer Science and IT graduates.",
+      "career_opportunities": {
+        "1": "Software Developer/Engineer: Software developers design, develop, and test software applications. They often specialize in areas such as web development, mobile app development, or software engineering.",
+        "2": "Systems Analyst: Systems analysts analyze an organization's computer systems and procedures to help them operate more efficiently. They may design new systems or modify existing ones to meet specific needs.",
+        "3": "Network Engineer/Administrator: Network engineers and administrators are responsible for designing, implementing, and maintaining an organization's network infrastructure, including local area networks (LANs), wide area networks (WANs), and intranets.",
+        "4": "Database Administrator: Database administrators (DBAs) manage and maintain an organization's database systems. They ensure that databases are secure, backed up, and running efficiently.",
+        "5": "Cybersecurity Analyst: Cybersecurity analysts protect an organization's computer systems and networks from cyber threats. They monitor for security breaches, investigate security incidents, and implement security measures to protect data.",
+        "6": "IT Project Manager: IT project managers oversee the planning, implementation, and completion of IT projects within an organization. They are responsible for ensuring that projects are completed on time and within budget.",
+        "7": "Cloud Architect/Engineer: Cloud architects and engineers design and implement cloud computing solutions for organizations. They are responsible for deploying and managing applications and services in the cloud.",
+        "8": "Data Scientist: Data scientists analyze and interpret complex data to inform business decisions. They use advanced statistical and analytical techniques to extract insights from data.",
+        "9": "Artificial Intelligence (AI) Engineer: AI engineers develop AI and machine learning algorithms and systems. They work on projects such as natural language processing, computer vision, and robotics.",
+        "10": "IT Consultant: IT consultants provide advice and guidance to organizations on how to use IT to achieve their business objectives. They may specialize in areas such as cybersecurity, cloud computing, or software development."
+      },
+      "career_conclusion": "These are just a few examples of the many career opportunities available in Computer Science and IT. As technology continues to advance, new roles and specialties are likely to emerge, creating exciting opportunities for those interested in these fields."
+    },
+    {
+      "course_name": "Engineering",
+      "courseId": "course004",
+      "top_image": "https://firebasestorage.googleapis.com/v0/b/unithink-89630.appspot.com/o/UniThink%20courses%20pages%20images%2Fengineering.png?alt=media&token=786b0eac-5d82-4c3a-b541-de4723aa0cfa",
+      "countries": {
+        "United States": {
+          "1": "Top Institutions: MIT, Stanford University, Caltech.",
+          "2": "Research & Innovation: Cutting-edge research facilities and strong industry connections.",
+          "3": "Career Opportunities: Proximity to tech hubs and leading engineering firms."
+        },
+        "Germany": {
+          "1": "Renowned Universities: Technical University of Munich, RWTH Aachen University.",
+          "2": "Affordable Education: Low tuition fees with high-quality education.",
+          "3": "Industry Links: Strong connections with leading engineering companies like Siemens and Volkswagen."
+        },
+        "United Kingdom": {
+          "1": "Leading Universities: University of Cambridge, Imperial College London.",
+          "2": "Academic Excellence: Rigorous programs and extensive research opportunities.",
+          "3": "Global Recognition: Degrees from UK universities are highly respected worldwide."
+        },
+        "Canada": {
+          "1": "Quality Institutions: University of Toronto, University of British Columbia, McGill University.",
+          "2": "Supportive Policies: Favorable immigration and post-graduation work policies.",
+          "3": "Thriving Industry: Growing tech and engineering sectors."
+        },
+        "Switzerland": {
+          "1": "Top Engineering Schools: ETH Zurich, EPFL.",
+          "2": "Research Excellence: Known for high-quality research and innovation.",
+          "3": "Industry Collaboration: Strong links with industries, particularly in pharmaceuticals and manufacturing."
+        },
+        "United Arab Emirates": {
+          "1": "Top Institutions: American University of Sharjah, University of Wollongong in Dubai.",
+          "2": "Admission: Private universities in the UAE, such as Middlesex University Dubai and Murdoch University Dubai, offer accessible admissions for international students.",
+          "3": "Industry Collaboration: Strong partnerships with local and international engineering firms."
+        },
+        "France": {
+          "1": "Leading Universities: École Polytechnique, CentraleSupélec.",
+          "2": "Admission: Private institutions like ESME Sudria and École des Ponts ParisTech offer accessible admissions for international students.",
+          "3": "Industry Links: Close ties with French engineering companies and research institutions."
+        },
+        "Australia": {
+          "1": "Top Institutions: University of Melbourne, Australian National University, University of New South Wales.",
+          "2": "Admission: Private universities in Australia, such as Bond University and Griffith University, offer accessible admissions for international students.",
+          "3": "Industry Engagement: Strong connections with Australia's engineering industry and research organizations."
+        },
+        "Sweden": {
+          "1": "Leading Universities: KTH Royal Institute of Technology, Chalmers University of Technology.",
+          "2": "Admission: Private universities in Sweden, like Luleå University of Technology and Blekinge Institute of Technology, offer accessible admissions for international students.",
+          "3": "Research Collaboration: Opportunities to collaborate with Swedish engineering companies and research institutes."
+        },
+        "Japan": {
+          "1": "Top Institutions: University of Tokyo, Tokyo Institute of Technology.",
+          "2": "Admission: Private universities in Japan, such as Waseda University and Keio University, offer accessible admissions for international students.",
+          "3": "Industry Partnerships: Collaborations with leading Japanese engineering firms and research organizations."
+        },
+        "India": {
+          "1": "Leading Institutions: Indian Institute of Technology (IIT), Birla Institute of Technology and Science (BITS Pilani).",
+          "2": "Admission: Private universities in India, like Vellore Institute of Technology (VIT) and Manipal Institute of Technology, offer accessible admissions for international students.",
+          "3": "Industry Connections: Opportunities to engage with India's growing engineering sector and multinational corporations."
+        }
+      },
+      "country_conclusion": "These countries offer excellent engineering programs, robust research opportunities, and strong industry connections, making them ideal destinations for engineering studies.",
+      "career_opportunities": {
+        "1": "Mechanical Engineering: Mechanical engineers design, develop, and test mechanical devices and systems, such as machines, engines, and thermal sensors. They work in industries such as automotive, aerospace, and manufacturing.",
+        "2": "Civil Engineering: Civil engineers design, construct, and maintain infrastructure projects, such as buildings, bridges, roads, and water supply systems. They work in both the public and private sectors.",
+        "3": "Electrical Engineering: Electrical engineers design, develop, and test electrical systems and equipment, such as power generation and distribution systems, electronic devices, and telecommunications systems. They work in industries such as electronics, telecommunications, and power generation.",
+        "4": "Chemical Engineering: Chemical engineers design and oversee chemical processes and equipment used in industries such as manufacturing, pharmaceuticals, and environmental engineering. They work to develop new materials and processes, improve existing ones, and ensure compliance with safety and environmental regulations.",
+        "5": "Computer Engineering: Computer engineers design, develop, and test computer hardware and software systems. They work in industries such as technology, telecommunications, and aerospace, developing products such as computer chips, networking equipment, and embedded systems.",
+        "6": "Biomedical Engineering: Biomedical engineers apply engineering principles and techniques to the field of medicine. They design and develop medical devices, equipment, and software, and work in areas such as healthcare, pharmaceuticals, and medical research.",
+        "7": "Environmental Engineering: Environmental engineers design and implement solutions to environmental problems, such as pollution control, waste management, and sustainable development. They work in industries such as consulting, government, and research.",
+        "8": "Aerospace Engineering: Aerospace engineers design, develop, and test aircraft, spacecraft, and related systems. They work in industries such as aerospace, defense, and aviation, developing products such as airplanes, satellites, and missiles.",
+        "9": "Industrial Engineering: Industrial engineers design and optimize complex systems, processes, and organizations to improve efficiency and productivity. They work in industries such as manufacturing, logistics, and healthcare, optimizing processes such as production lines, supply chains, and healthcare delivery systems.",
+        "10": "Materials Engineering: Materials engineers develop and test materials used in manufacturing processes, such as metals, ceramics, and plastics. They work in industries such as manufacturing, automotive, and aerospace, developing materials with specific properties for various applications."
+      },
+      "career_conclusion": "These are just a few examples of the many career opportunities available in engineering. Engineering offers a wide range of specialties and industries to choose from, making it a versatile and rewarding field for those interested in applying scientific principles to solve real-world problems."
+    },
+    {
+      "course_name": "Economics",
+      "courseId": "course005",
+      "top_image": "https://firebasestorage.googleapis.com/v0/b/unithink-89630.appspot.com/o/UniThink%20courses%20pages%20images%2Feconomics.png?alt=media&token=d9147f1c-408e-4e60-a097-74eb800469d1",
+      "countries": {
+        "United States": {
+          "1": "Top Institutions: Harvard University, Massachusetts Institute of Technology (MIT), University of Chicago.",
+          "2": "Research Opportunities: Extensive research facilities and renowned faculty.",
+          "3": "Career Prospects: Strong job market in academia, government, and industry."
+        },
+        "United Kingdom": {
+          "1": "Leading Universities: London School of Economics (LSE), University of Oxford, University of Cambridge.",
+          "2": "Global Recognition: High academic standards and influential economic research.",
+          "3": "Networking: Strong connections with international organizations and financial institutions."
+        },
+        "Canada": {
+          "1": "Quality Institutions: University of Toronto, University of British Columbia, McGill University.",
+          "2": "Research Funding: Well-funded economic research programs.",
+          "3": "Public Policy Focus: Opportunities in public policy and international development."
+        },
+        "Germany": {
+          "1": "Renowned Universities: University of Mannheim, University of Munich (LMU), University of Bonn.",
+          "2": "Affordable Education: Low or no tuition fees for international students.",
+          "3": "Research Excellence: Strong emphasis on economic theory and applied research."
+        },
+        "Australia": {
+          "1": "Top Schools: University of Melbourne, Australian National University (ANU), University of Sydney.",
+          "2": "Economic Research: Focus on both regional and global economic issues.",
+          "3": "Diverse Opportunities: Growing job market in academia, government, and private sector."
+        },
+        "United Arab Emirates": {
+          "1": "Top Institutions: American University of Sharjah, University of Wollongong in Dubai.",
+          "2": "Admission: Private universities in the UAE, such as Middlesex University Dubai and Murdoch University Dubai, offer accessible admissions for international students.",
+          "3": "Industry Collaboration: Strong partnerships with local and international economic research organizations."
+        },
+        "France": {
+          "1": "Leading Universities: Sciences Po, Paris School of Economics.",
+          "2": "Admission: Private institutions like Paris School of Business and ESSEC Business School offer accessible admissions for international students.",
+          "3": "Industry Links: Close ties with French economic research organizations and financial institutions."
+        },
+        "Sweden": {
+          "1": "Leading Universities: Stockholm School of Economics, Lund University.",
+          "2": "Admission: Private universities in Sweden, like Jönköping University and Halmstad University, offer accessible admissions for international students.",
+          "3": "Research Collaboration: Opportunities to collaborate with Swedish economic research institutes and financial organizations."
+        },
+        "Japan": {
+          "1": "Top Institutions: University of Tokyo, Kyoto University.",
+          "2": "Admission: Private universities in Japan, such as Keio University and Waseda University, offer accessible admissions for international students.",
+          "3": "Industry Partnerships: Collaborations with leading Japanese economic research organizations and financial institutions."
+        },
+        "India": {
+          "1": "Leading Institutions: Delhi School of Economics, Jawaharlal Nehru University.",
+          "2": "Admission: Private universities in India, like Amity University and Manipal University, offer accessible admissions for international students.",
+          "3": "Industry Connections: Opportunities to engage with India's economic research organizations and financial sector."
+        }
+      },
+      "country_conclusion": "These countries offer top-tier economics programs, strong research opportunities, and excellent career prospects, making them ideal for pursuing studies in economics.",
+      "career_opportunities": {
+        "1": "Economist: Economists study the production and distribution of resources, goods, and services. They analyze data, conduct research, and develop forecasts and models to help businesses, governments, and other organizations make informed decisions.",
+        "2": "Financial Analyst: Financial analysts assess the performance of investments, such as stocks and bonds, and provide guidance to businesses and individuals on investment decisions. They analyze financial data, trends, and market conditions to make recommendations.",
+        "3": "Policy Analyst: Policy analysts study and evaluate public policies and their impact on society. They work for government agencies, think tanks, and nonprofit organizations, providing recommendations to policymakers on issues such as healthcare, education, and economic development.",
+        "4": "Market Research Analyst: Market research analysts study market conditions to help businesses understand what products people want, who will buy them, and at what price. They use data analysis and statistical techniques to gather and interpret information.",
+        "5": "Data Analyst: Data analysts collect, process, and analyze data to help businesses and organizations make strategic decisions. They use statistical techniques and software to interpret data and identify trends.",
+        "6": "Financial Manager: Financial managers oversee the financial health of an organization. They prepare financial reports, develop strategies to improve financial performance, and make investment decisions.",
+        "7": "Consultant: Economic consultants provide expert advice to businesses, government agencies, and nonprofit organizations on economic issues. They analyze data, conduct research, and make recommendations to help clients solve problems and improve performance.",
+        "8": "Teacher/Professor: Economics teachers and professors educate students about economic principles, theories, and concepts. They may conduct research and publish academic papers in addition to teaching.",
+        "9": "International Trade Specialist: International trade specialists analyze global trade patterns and policies to help businesses and governments understand and navigate international markets. They may work for government agencies, multinational corporations, or consulting firms.",
+        "10": "Development Economist: Development economists study economic issues in developing countries and regions, such as poverty, inequality, and economic growth. They work to identify solutions to these problems and improve the standard of living for people in these areas."
+      },
+      "career_conclusion": "These are just a few examples of the many career opportunities available in economics. Economics is a versatile field that offers opportunities for individuals interested in analyzing data, making informed decisions, and influencing economic policy and development."
+    },
+    {
+      "course_name": "Public Health",
+      "courseId": "course006",
+      "top_image": "https://firebasestorage.googleapis.com/v0/b/unithink-89630.appspot.com/o/UniThink%20courses%20pages%20images%2Fpublichealth.png?alt=media&token=781f97af-4361-4dbd-902c-783ab6e7b651",
+      "countries": {
+        "United States": {
+          "1": "Top Institutions: Johns Hopkins University, Harvard University, University of North Carolina at Chapel Hill.",
+          "2": "Research & Resources: Access to extensive research facilities and public health organizations like the CDC and NIH.",
+          "3": "Diverse Opportunities: Wide range of public health specialties and strong job market."
+        },
+        "United Kingdom": {
+          "1": "Leading Universities: London School of Hygiene & Tropical Medicine, University of Oxford, Imperial College London.",
+          "2": "Global Recognition: Renowned for research and contributions to global public health.",
+          "3": "NHS Collaboration: Opportunities for practical training and research through the NHS."
+        },
+        "Canada": {
+          "1": "Quality Institutions: University of Toronto, McGill University, University of British Columbia.",
+          "2": "Public Health System: Strong focus on public health within a robust healthcare system.",
+          "3": "Research Opportunities: Well-funded research initiatives and collaborations."
+        },
+        "Australia": {
+          "1": "Renowned Schools: University of Melbourne, University of Sydney, Monash University.",
+          "2": "Public Health Focus: Strong emphasis on public health education and research.",
+          "3": "Diverse Health Challenges: Opportunities to study and address a range of health issues, from urban to indigenous health."
+        },
+        "Sweden": {
+          "1": "Top Universities: Karolinska Institute, Uppsala University.",
+          "2": "Public Health Systems: Strong public health infrastructure and innovative healthcare practices.",
+          "3": "Research Excellence: Known for high-quality research in public health and epidemiology."
+        },
+        "United Arab Emirates": {
+          "1": "Top Institutions: University of Sharjah (College of Health Sciences), United Arab Emirates University (College of Medicine and Health Sciences).",
+          "2": "Strategic Location: Gateway to Middle Eastern public health challenges.",
+          "3": "Growing Sector: Rapidly developing healthcare infrastructure and public health initiatives."
+        },
+        "France": {
+          "1": "Leading Universities: École des Hautes Études en Santé Publique (EHESP), Université Paris-Saclay.",
+          "2": "Global Network: Extensive alumni networks and collaborations with European public health bodies.",
+          "3": "Research Opportunities: Strong emphasis on public health research and innovation."
+        },
+        "Japan": {
+          "1": "Top Institutions: University of Tokyo (School of Public Health), Kyoto University (School of Public Health).",
+          "2": "Advanced Research: Leading in public health research and innovative healthcare solutions.",
+          "3": "Aging Population Focus: Unique opportunities to study aging and geriatric health issues."
+        },
+        "India": {
+          "1": "Leading Universities: All India Institute of Medical Sciences (AIIMS), Tata Institute of Social Sciences (TISS), Public Health Foundation of India (PHFI).",
+          "2": "Diverse Health Challenges: Addressing a wide range of public health issues in a diverse population.",
+          "3": "Growing Sector: Expanding public health infrastructure and opportunities."
+        }
+      },
+      "country_conclusion": "These countries provide excellent public health education, research opportunities, and practical training experiences, making them ideal for pursuing studies in public health.",
+      "career_opportunities": {
+        "1": "Epidemiologist: Study the patterns, causes, and effects of health and disease conditions in defined populations. Work to reduce negative health outcomes by implementing public health programs.",
+        "2": "Health Educator: Develop programs and materials that teach people about health topics. Work to promote wellness by educating individuals and communities about behaviors that encourage healthy living.",
+        "3": "Biostatistician: Apply statistical techniques to analyze data from medical and public health research. Help design studies and interpret data to inform health decisions and policies.",
+        "4": "Environmental Health Scientist: Study how environmental factors affect human health. Work on issues such as air and water quality, food safety, and the impact of chemicals on health.",
+        "5": "Public Health Administrator: Plan, coordinate, and manage public health programs and policies. Oversee public health departments or organizations, ensuring effective delivery of services and programs.",
+        "6": "Global Health Professional: Work on health issues that affect people worldwide, such as infectious diseases, malnutrition, and maternal and child health. Often employed by international organizations or NGOs.",
+        "7": "Health Policy Analyst: Analyze and develop policies that affect public health. Work for government agencies, think tanks, or advocacy organizations to shape policies that improve health outcomes.",
+        "8": "Public Health Nurse: Provide healthcare services and education to communities. Focus on preventive care and work to improve the overall health of populations.",
+        "9": "Occupational Health and Safety Specialist: Examine workplace environments and practices to ensure they are safe and healthy. Implement programs to prevent injury and illness caused by workplace hazards.",
+        "10": "Community Health Worker: Work directly with communities to improve health outcomes. Help individuals access healthcare services, provide education on health issues, and advocate for community health needs."
+      },
+      "career_conclusion": "Public Health offers a diverse range of career opportunities dedicated to improving the health and well-being of populations. From conducting research and shaping policy to providing education and healthcare services, there are many paths you can take to make a positive impact in the field of public health."
+    },
+    {
+      "course_name": "Psychology",
+      "courseId": "course007",
+      "top_image": "https://firebasestorage.googleapis.com/v0/b/unithink-89630.appspot.com/o/UniThink%20courses%20pages%20images%2Fpsychology.png?alt=media&token=1763892b-3b6c-44cb-957f-87ae8e765f7e",
+      "countries": {
+        "United States": {
+          "1": "Top Institutions: Stanford University, Harvard University, University of California, Berkeley.",
+          "2": "Research Opportunities: Extensive research facilities and funding.",
+          "3": "Diverse Specializations: Wide range of subfields including clinical, cognitive, and developmental psychology."
+        },
+        "United Kingdom": {
+          "1": "Leading Universities: University of Oxford, University of Cambridge, University College London (UCL).",
+          "2": "Reputation: Strong emphasis on research and clinical training.",
+          "3": "Professional Networks: Robust connections with psychological organizations and healthcare providers."
+        },
+        "Canada": {
+          "1": "Quality Institutions: University of Toronto, University of British Columbia, McGill University.",
+          "2": "Supportive Policies: Favorable immigration policies and post-graduation work opportunities.",
+          "3": "Integrated Training: Strong focus on combining theoretical knowledge with practical application."
+        },
+        "Australia": {
+          "1": "Top Schools: University of Melbourne, University of Sydney, Australian National University (ANU).",
+          "2": "Comprehensive Programs: Emphasis on both research and applied psychology.",
+          "3": "Global Recognition: Degrees from Australian universities are highly regarded worldwide."
+        },
+        "Netherlands": {
+          "1": "Renowned Universities: University of Amsterdam, Leiden University, Utrecht University.",
+          "2": "Innovative Research: Strong focus on cutting-edge psychological research.",
+          "3": "International Environment: Programs often taught in English with a global student body."
+        },
+        "United Arab Emirates": {
+          "1": "Top Institutions: American University of Sharjah, Middlesex University Dubai.",
+          "2": "Admission: Private universities in the UAE, such as Murdoch University Dubai and University of Wollongong in Dubai, offer accessible admissions for international students.",
+          "3": "Industry Collaboration: Strong partnerships with local and international psychological organizations and healthcare providers."
+        },
+        "France": {
+          "1": "Leading Universities: Paris Descartes University, University of Paris.",
+          "2": "Admission: Private institutions like American University of Paris and Paris School of Psychology offer accessible admissions for international students.",
+          "3": "Professional Links: Close ties with French psychological research organizations and healthcare institutions."
+        },
+        "Sweden": {
+          "1": "Leading Universities: Stockholm University, Uppsala University.",
+          "2": "Admission: Private universities in Sweden, like Lund University and Karlstad University, offer accessible admissions for international students.",
+          "3": "Research Collaboration: Opportunities to collaborate with Swedish psychological research institutes and healthcare providers."
+        },
+        "Japan": {
+          "1": "Top Institutions: University of Tokyo, Kyoto University.",
+          "2": "Admission: Private universities in Japan, such as Waseda University and Keio University, offer accessible admissions for international students.",
+          "3": "Industry Partnerships: Collaborations with leading Japanese psychological research organizations and healthcare providers."
+        },
+        "India": {
+          "1": "Leading Institutions: University of Delhi, Tata Institute of Social Sciences (TISS).",
+          "2": "Admission: Private universities in India, like Amity University and Symbiosis International University, offer accessible admissions for international students.",
+          "3": "Professional Networks: Opportunities to engage with India's psychological research organizations and healthcare providers."
+        }
+      },
+      "country_conclusion": "These countries provide excellent education, extensive research opportunities, and strong professional networks, making them ideal for pursuing studies in psychology.",
+      "career_opportunities": {
+        "1": "Clinical Psychologist: Assess and treat mental, emotional, and behavioral disorders in various settings.",
+        "2": "Counseling Psychologist: Help people cope with life challenges and improve mental health.",
+        "3": "School Psychologist: Assist students in overcoming academic, behavioral, and social-emotional challenges.",
+        "4": "Industrial-Organizational (I-O) Psychologist: Apply psychological principles to the workplace to enhance productivity and organizational effectiveness.",
+        "5": "Forensic Psychologist: Apply psychology to legal issues, such as criminal investigations and court proceedings.",
+        "6": "Health Psychologist: Study how psychological factors affect health and wellness in healthcare settings.",
+        "7": "Research Psychologist: Conduct studies to understand human behavior and mental processes.",
+        "8": "Sports Psychologist: Work with athletes to improve performance and mental toughness.",
+        "9": "Neuropsychologist: Study the relationship between the brain and behavior.",
+        "10": "Rehabilitation Psychologist: Help individuals with disabilities improve their quality of life and achieve their goals."
+      },
+      "career_conclusion": "Psychology offers a variety of career opportunities in areas such as clinical practice, research, and applied psychology. Whether you're interested in helping individuals overcome mental health challenges or conducting cutting-edge research, psychology provides a rewarding and diverse field of study."
+    },
+    {
+      "course_name": "Finance",
+      "courseId": "course008",
+      "top_image": "https://firebasestorage.googleapis.com/v0/b/unithink-89630.appspot.com/o/UniThink%20courses%20pages%20images%2Ffinance.png?alt=media&token=774623eb-a532-40a7-a191-6bf32298a162",
+      "countries": {
+        "United States": {
+          "1": "Top Institutions: Wharton School at the University of Pennsylvania, Booth School of Business at the University of Chicago.",
+          "2": "Financial Sector: Strong financial sector providing ample internship and job opportunities.",
+          "3": "Career Prospects: Renowned business schools offering excellent finance programs."
+        },
+        "United Kingdom": {
+          "1": "Leading Universities: London Business School, Imperial College Business School.",
+          "2": "Global Financial Hub: London's status as a financial center provides access to internships and networking opportunities.",
+          "3": "Prestigious Programs: Institutions offering high-quality finance programs."
+        },
+        "Singapore": {
+          "1": "Top Institutions: National University of Singapore (NUS), Nanyang Technological University (NTU).",
+          "2": "Financial Center: Emerged as a major financial center in Asia.",
+          "3": "Strategic Location: Attractive destination for finance students due to its strong economy and strategic location."
+        },
+        "Switzerland": {
+          "1": "Reputable Universities: University of Zurich, University of St. Gallen.",
+          "2": "Stable Economy: Known for its stable economy and strong banking sector.",
+          "3": "Finance Studies: Excellent location for finance studies."
+        },
+        "Canada": {
+          "1": "Quality Institutions: Rotman School of Management at the University of Toronto, Sauder School of Business at the University of British Columbia.",
+          "2": "Stable Economy: Canada's stable economy and multicultural environment are beneficial for students.",
+          "3": "High-Quality Programs: Universities offering high-quality finance programs."
+        },
+        "Australia": {
+          "1": "Strong Financial Sector: Reputable finance programs at institutions like the Australian National University, University of Melbourne.",
+          "2": "Quality of Life: Australia's high quality of life and diverse culture make it appealing for international students.",
+          "3": "Finance Programs: Institutions offering reputable finance programs."
+        },
+        "Hong Kong": {
+          "1": "Financial Center: Hong Kong is a major financial center in Asia.",
+          "2": "Top Institutions: Hong Kong University of Science and Technology (HKUST), Chinese University of Hong Kong (CUHK).",
+          "3": "Unique Opportunities: Proximity to mainland China provides unique opportunities for students interested in Asian finance markets."
+        },
+        "United Arab Emirates": {
+          "1": "Top Institutions: American University of Sharjah, Middlesex University Dubai.",
+          "2": "Admission: Private universities in the UAE, such as Murdoch University Dubai and University of Wollongong in Dubai, offer accessible admissions for international students.",
+          "3": "Industry Collaboration: Strong partnerships with local and international financial institutions."
+        },
+        "France": {
+          "1": "Leading Universities: Paris Dauphine University, Paris School of Economics.",
+          "2": "Admission: Private institutions like American University of Paris and Paris School of Economics offer accessible admissions for international students.",
+          "3": "Professional Links: Close ties with French financial organizations and institutions."
+        },
+        "Sweden": {
+          "1": "Leading Universities: Stockholm School of Economics, Lund University.",
+          "2": "Admission: Private universities in Sweden, like Karlstad University and Stockholm University, offer accessible admissions for international students.",
+          "3": "Research Collaboration: Opportunities to collaborate with Swedish financial research institutes and institutions."
+        },
+        "Japan": {
+          "1": "Top Institutions: University of Tokyo, Kyoto University.",
+          "2": "Admission: Private universities in Japan, such as Waseda University and Keio University, offer accessible admissions for international students.",
+          "3": "Industry Partnerships: Collaborations with leading Japanese financial organizations and institutions."
+        },
+        "India": {
+          "1": "Leading Universities: Indian Institute of Management (IIM), Indian School of Business (ISB).",
+          "2": "Admission: Private universities in India, such as Amity University and Symbiosis International University, offer accessible admissions for international students.",
+          "3": "Professional Networks: Opportunities to engage with India's financial organizations and institutions."
+        },
+        "South Africa": {
+          "1": "Leading Universities: University of Cape Town, University of Witwatersrand.",
+          "2": "Admission: Private universities in South Africa, such as Stellenbosch University and University of Pretoria, offer accessible admissions for international students.",
+          "3": "Research Opportunities: Collaborations with local and international financial research institutes and institutions."
+        }
+      },
+      "country_conclusion": "These countries offer a combination of reputable educational institutions and strong financial sectors, providing students with valuable knowledge and skills for a career in finance.",
+      "career_opportunities": {
+        "1": "Financial Analyst: Assess the performance of stocks, bonds, and other investments.",
+        "2": "Investment Banker: Help companies and governments raise capital through issuing stocks and bonds.",
+        "3": "Financial Planner/Advisor: Assist individuals and families in creating financial plans to meet their goals.",
+        "4": "Commercial Banker: Provide banking services to businesses, such as loans and credit lines.",
+        "5": "Corporate Finance Professional: Manage financial activities within companies, such as budgeting and financial reporting.",
+        "6": "Risk Manager: Identify and analyze risks that could impact a company's financial performance.",
+        "7": "Asset Manager: Oversee investment portfolios to achieve clients' financial goals.",
+        "8": "Financial Auditor: Examine financial records to ensure accuracy and compliance with laws.",
+        "9": "Insurance Underwriter: Evaluate insurance applications and determine coverage amounts and premiums.",
+        "10": "Real Estate Analyst: Analyze market trends and property values to assist investors and developers."
+      },
+      "career_conclusion": "Finance offers a wide range of career opportunities in areas such as banking, investment management, corporate finance, and financial planning. Whether you're interested in analyzing financial data, managing investments, or providing financial advice, there are many paths you can take in the field of finance."
+    },
+    {
+      "course_name": "Law",
+      "courseId": "course009",
+      "top_image": "https://firebasestorage.googleapis.com/v0/b/unithink-89630.appspot.com/o/UniThink%20courses%20pages%20images%2Flaw.png?alt=media&token=16d218aa-313c-49a6-ac92-80531ead1c6b",
+      "countries": {
+        "United States": {
+          "1": "Top Institutions: Harvard Law School, Yale Law School, Stanford Law School.",
+          "2": "Specializations: Diverse range of specializations, including corporate law, international law, and human rights.",
+          "3": "Career Prospects: Strong job market and prestigious law firms."
+        },
+        "United Kingdom": {
+          "1": "Leading Universities: University of Oxford, University of Cambridge, London School of Economics (LSE).",
+          "2": "Global Recognition: Highly respected legal education and strong alumni networks.",
+          "3": "Legal Traditions: Rich legal heritage and influence on common law systems worldwide."
+        },
+        "Canada": {
+          "1": "Quality Institutions: University of Toronto, McGill University, University of British Columbia.",
+          "2": "Supportive Environment: Favorable immigration policies and opportunities for practical training.",
+          "3": "Integrated Programs: Combination of theoretical and practical legal education."
+        },
+        "Australia": {
+          "1": "Top Schools: University of Melbourne, University of Sydney, Australian National University (ANU).",
+          "2": "International Reputation: Degrees recognized globally with a focus on both domestic and international law.",
+          "3": "Legal Research: Strong emphasis on legal research and access to diverse legal resources."
+        },
+        "Germany": {
+          "1": "Renowned Universities: University of Heidelberg, University of Munich (LMU), Humboldt University of Berlin.",
+          "2": "Affordable Education: Low or no tuition fees for international students.",
+          "3": "Legal Systems: In-depth study of civil law systems and robust legal education."
+        },
+        "United Arab Emirates": {
+          "1": "Top Institutions: University of Dubai, Middlesex University Dubai.",
+          "2": "Admission: Private universities in the UAE, such as Murdoch University Dubai and University of Wollongong in Dubai, offer accessible admissions for international students.",
+          "3": "Industry Collaboration: Strong partnerships with local and international legal firms."
+        },
+        "France": {
+          "1": "Leading Universities: Panthéon-Assas University, University of Paris-Saclay.",
+          "2": "Admission: Private institutions like Paris Institute of Political Studies and Panthéon-Assas University offer accessible admissions for international students.",
+          "3": "Professional Links: Close ties with French legal organizations and institutions."
+        },
+        "Sweden": {
+          "1": "Leading Universities: Lund University, Stockholm University.",
+          "2": "Admission: Private universities in Sweden, like Uppsala University and Stockholm School of Economics, offer accessible admissions for international students.",
+          "3": "Research Collaboration: Opportunities to collaborate with Swedish legal research institutes and institutions."
+        },
+        "Japan": {
+          "1": "Top Institutions: University of Tokyo, Kyoto University.",
+          "2": "Admission: Private universities in Japan, such as Keio University and Waseda University, offer accessible admissions for international students.",
+          "3": "Industry Partnerships: Collaborations with leading Japanese legal firms and institutions."
+        },
+        "India": {
+          "1": "Leading Institutions: National Law School of India University, Jindal Global Law School.",
+          "2": "Admission: Private universities in India, like Symbiosis Law School and NALSAR University of Law, offer accessible admissions for international students.",
+          "3": "Professional Networks: Opportunities to engage with India's legal organizations and institutions."
+        },
+        "South Africa": {
+          "1": "Leading Universities: University of Cape Town, University of the Witwatersrand.",
+          "2": "Admission: Private universities in South Africa, such as University of Johannesburg and University of Pretoria, offer accessible admissions for international students.",
+          "3": "Research Opportunities: Collaborations with local and international legal research institutes and institutions."
+        }
+      },
+      "country_conclusion": "These countries offer world-class legal education, diverse specializations, and strong career prospects, making them ideal for pursuing a law degree.",
+      "career_opportunities": {
+        "1": "Lawyer: Provide legal advice and represent clients in court proceedings, negotiations, and other legal matters.",
+        "2": "Judge/Magistrate: Preside over court proceedings, interpret the law, and ensure legal procedures are followed.",
+        "3": "Legal Consultant/Advisor: Provide expert advice on legal matters to individuals, businesses, and organizations.",
+        "4": "Legal Researcher: Conduct research on legal issues and assist legal professionals in preparing cases and developing legal strategies.",
+        "5": "Corporate Counsel: Provide legal advice to corporations on a wide range of issues, including contracts and regulatory compliance.",
+        "6": "Public Interest Lawyer: Represent individuals and communities in legal matters affecting the public interest, such as civil rights and environmental protection.",
+        "7": "Government Lawyer: Represent the government in legal matters and provide legal advice to government officials and agencies.",
+        "8": "Legal Analyst: Analyze legal issues and developments to provide insights and recommendations to lawyers, policymakers, and stakeholders.",
+        "9": "Legal Educator: Teach law students about legal principles, the legal system, and the practice of law.",
+        "10": "Alternative Dispute Resolution (ADR) Specialist: Help parties resolve legal disputes outside of the courtroom through methods such as mediation and arbitration."
+      },
+      "career_conclusion": "Law offers a wide range of career opportunities, both in traditional legal roles and in non-traditional fields. Whether you're interested in advocating for others, analyzing complex issues, or upholding justice and fairness, there are many paths you can take in the field of law."
+    },
+    {
+      "course_name": "Medicine",
+      "courseId": "course010",
+      "top_image": "https://firebasestorage.googleapis.com/v0/b/unithink-89630.appspot.com/o/UniThink%20courses%20pages%20images%2Fmedicine.png?alt=media&token=2b777768-2e29-4b96-9afd-071f1e2687f6",
+      "countries": {
+        "United States": {
+          "1": "Top Institutions: Harvard University, Johns Hopkins University, Stanford University.",
+          "2": "Advanced Facilities: Cutting-edge research and medical facilities.",
+          "3": "Clinical Exposure: Extensive opportunities for clinical experience in diverse healthcare settings."
+        },
+        "United Kingdom": {
+          "1": "Leading Universities: University of Oxford, University of Cambridge, Imperial College London.",
+          "2": "Global Recognition: Highly respected medical degrees and comprehensive training programs.",
+          "3": "NHS Exposure: Access to the National Health Service (NHS) for practical training."
+        },
+        "Canada": {
+          "1": "Quality Institutions: University of Toronto, McGill University, University of British Columbia.",
+          "2": "Research Opportunities: Strong focus on medical research and innovation.",
+          "3": "Healthcare System: Excellent healthcare infrastructure and clinical training."
+        },
+        "Australia": {
+          "1": "Renowned Universities: University of Melbourne, University of Sydney, Monash University.",
+          "2": "Clinical Training: Diverse clinical training environments.",
+          "3": "Global Opportunities: Recognized for high standards and global opportunities."
+        },
+        "Germany": {
+          "1": "Top Medical Schools: Heidelberg University, Charité - Universitätsmedizin Berlin.",
+          "2": "Affordable Education: Low or no tuition fees for international students.",
+          "3": "Research and Innovation: Strong emphasis on medical research and advanced technology."
+        },
+        "Russia": {
+          "1": "Leading Institutions: Lomonosov Moscow State University, Sechenov University.",
+          "2": "Admission: Private universities in Russia, such as Kazan Federal University and Peoples' Friendship University of Russia, offer accessible admissions for international students.",
+          "3": "Clinical Practice: Opportunities to gain clinical experience in diverse medical settings."
+        },
+        "Kazakhstan": {
+          "1": "Top Universities: Nazarbayev University, Kazakh National Medical University.",
+          "2": "Admission: Private universities in Kazakhstan, like Al-Farabi Kazakh National University and Suleyman Demirel University, offer accessible admissions for international students.",
+          "3": "Healthcare System: Exposure to Kazakhstan's healthcare system and medical practices."
+        },
+        "Georgia": {
+          "1": "Leading Institutions: Tbilisi State Medical University, Batumi Shota Rustaveli State University.",
+          "2": "Admission: Private universities in Georgia, such as Caucasus International University and David Tvildiani Medical University, offer accessible admissions for international students.",
+          "3": "Clinical Training: Opportunities for hands-on clinical training in Georgian hospitals and healthcare centers."
+        },
+        "Uzbekistan": {
+          "1": "Top Universities: Tashkent Medical Academy, Samarkand State Medical Institute.",
+          "2": "Admission: Private universities in Uzbekistan, like Tashkent Medical Institute and Uzbek State Institute of Physical Education, offer accessible admissions for international students.",
+          "3": "Medical Education: Comprehensive medical education programs with a focus on practical training."
+        },
+        "United Arab Emirates": {
+          "1": "Top Institutions: Mohammed Bin Rashid University of Medicine and Health Sciences, Gulf Medical University.",
+          "2": "Admission: Private universities in the UAE, such as Dubai Medical College and RAK Medical & Health Sciences University, offer accessible admissions for international students.",
+          "3": "Clinical Training: Opportunities to gain clinical experience in UAE hospitals and healthcare facilities."
+        },
+        "France": {
+          "1": "Leading Universities: Paris Descartes University, University of Paris-Sud.",
+          "2": "Admission: Private institutions like Paris-Sud University and Paris Descartes University offer accessible admissions for international students.",
+          "3": "Professional Links: Close ties with French medical organizations and institutions."
+        },
+        "Sweden": {
+          "1": "Leading Universities: Karolinska Institute, Uppsala University.",
+          "2": "Admission: Private universities in Sweden, like Karolinska Institute and Uppsala University, offer accessible admissions for international students.",
+          "3": "Research Collaboration: Opportunities to collaborate with Swedish medical research institutes and institutions."
+        },
+        "Japan": {
+          "1": "Top Institutions: University of Tokyo, Kyoto University.",
+          "2": "Admission: Private universities in Japan, such as Keio University and Waseda University, offer accessible admissions for international students.",
+          "3": "Industry Partnerships: Collaborations with leading Japanese hospitals and medical institutions."
+        }
+      },
+      "country_conclusion": "These countries offer excellent medical education, extensive research opportunities, and diverse clinical experiences, making them ideal for pursuing medical studies.",
+      "career_opportunities": {
+        "1": "Physician: Diagnose and treat illnesses and injuries. Specializations include pediatrics, cardiology, oncology, or surgery.",
+        "2": "Surgeon: Perform operations to treat diseases, injuries, and deformities. Specializations include orthopedic surgery, neurosurgery, or cardiovascular surgery.",
+        "3": "Nurse: Provide patient care, educate patients and the public about health conditions, and offer advice and emotional support to patients and their families. Specializations include pediatric nursing, critical care nursing, or psychiatric nursing.",
+        "4": "Physician Assistant: Practice medicine under the supervision of physicians and surgeons. Examine patients, diagnose illnesses, and prescribe medications.",
+        "5": "Pharmacist: Dispense prescription medications to patients and provide expertise in the safe use of prescriptions. Offer advice on general health topics.",
+        "6": "Medical Researcher: Conduct studies to improve human health. Work in laboratories, universities, pharmaceutical companies, or government agencies.",
+        "7": "Public Health Professional: Work to improve the health of populations. Specialize in areas such as epidemiology, health education, or health policy.",
+        "8": "Medical Technologist: Perform laboratory tests to help diagnose and treat diseases. Work in hospitals, clinics, and research laboratories.",
+        "9": "Healthcare Administrator: Manage healthcare facilities, such as hospitals and nursing homes. Oversee staff, budgets, and patient care.",
+        "10": "Medical Writer: Create materials about health and medicine for various audiences. Work for pharmaceutical companies, healthcare organizations, or publishing companies."
+      },
+      "career_conclusion": "Medicine offers a wide range of career opportunities, from direct patient care to research and public health. Whether you're interested in diagnosing and treating illnesses, conducting research, educating others, or managing healthcare facilities, there are numerous paths you can pursue in the field of medicine."
+    }   
+]

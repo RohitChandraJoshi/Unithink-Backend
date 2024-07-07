@@ -1,0 +1,62 @@
+[
+  {
+    "courseId": "course001",
+    "courseName": "Business Administration",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/unithink-89630.appspot.com/o/UniThink%20courses%20images%2FBusinessAdministraion_icon.png?alt=media&token=6fa08a0d-b544-497e-88f8-485ad646dd8e",
+    "description": "Learn the fundamentals of business management and administration."
+  },
+  {
+    "courseId": "course002",
+    "courseName": "Data Science/Analytics and Machine Learning",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/unithink-89630.appspot.com/o/UniThink%20courses%20images%2FDataScience_icons.png?alt=media&token=2a26e69e-25a5-4c47-a730-006d282f25b8",
+    "description": "Explore data analysis, statistics, and machine learning techniques."
+  },
+  {
+    "courseId": "course003",
+    "courseName": "Computer Science/IT",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/unithink-89630.appspot.com/o/UniThink%20courses%20images%2FComputerScience_icon.png?alt=media&token=e5318a83-e1fc-4614-af2e-d917043841fb",
+    "description": "Study the principles of computing, programming, and information technology."
+  },
+  {
+    "courseId": "course004",
+    "courseName": "Engineering",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/unithink-89630.appspot.com/o/UniThink%20courses%20images%2Fengineering_icon.png?alt=media&token=5749c405-15cd-47d0-a900-a62355555af2",
+    "description": "Understand the fundamentals of various engineering disciplines."
+  },
+  {
+    "courseId": "course005",
+    "courseName": "Economics",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/unithink-89630.appspot.com/o/UniThink%20courses%20images%2Feconomics_icon.png?alt=media&token=b16035ea-43f7-4e92-b0b8-bef23ce4593c",
+    "description": "Learn about economic theories, models, and their applications."
+  },
+  {
+    "courseId": "course006",
+    "courseName": "Public Health",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/unithink-89630.appspot.com/o/UniThink%20courses%20images%2Fpublichealth_icon.png?alt=media&token=9e3d6099-6ea6-4161-8fa1-393c732e74dc",
+    "description": "Explore the science and practice of protecting and improving community health."
+  },
+  {
+    "courseId": "course007",
+    "courseName": "Psychology",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/unithink-89630.appspot.com/o/UniThink%20courses%20images%2Fpsychology_icon.png?alt=media&token=de504d83-ea7b-4a23-99f9-860c878d5b16",
+    "description": "Study human behavior and mental processes."
+  },
+  {
+    "courseId": "course008",
+    "courseName": "Finance",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/unithink-89630.appspot.com/o/UniThink%20courses%20images%2Ffinance_icon.png?alt=media&token=283c174e-4890-4a22-8a32-501e7c8a990c",
+    "description": "Understand financial management, investment, and markets."
+  },
+  {
+    "courseId": "course009",
+    "courseName": "Law",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/unithink-89630.appspot.com/o/UniThink%20courses%20images%2Flaw_icon.png?alt=media&token=02d987b7-25b6-4e8d-9adb-14b129a83dc7",
+    "description": "Learn about legal principles, systems, and practices."
+  },
+  {
+    "courseId": "course010",
+    "courseName": "Medicine",
+    "imageLink": "https://firebasestorage.googleapis.com/v0/b/unithink-89630.appspot.com/o/UniThink%20courses%20images%2Fmedicine_icon.png?alt=media&token=0f71bbf4-0b2d-44c3-a247-e061e822defd",
+    "description": "Study the science and practice of diagnosing, treating, and preventing diseases."
+  }
+]
