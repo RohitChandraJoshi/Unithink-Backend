@@ -1,6 +1,11 @@
 const express = require('express');
 const router = express.Router();
 const mongoose = require('mongoose');
+const app = express();
+
+app.use(cors());
+app.use(express.json());
+
 
 const contactSchema = new mongoose.Schema({
   name: {
