@@ -13,7 +13,6 @@
     "fs": "^0.0.1-security",
     "mongoose": "^8.4.5",
     "nodemailer": "^6.9.14",
-    "path": "^0.12.7",
-    "vercel": "^34.3.0"
+    "path": "^0.12.7"
   }
 }
