@@ -4,7 +4,7 @@
   },
   "scripts": {
     "start": "node server.js",
-    "build": "react-scripts build"
+    "build": "npm i"
   },
   "dependencies": {
     "cors": "^2.8.5",
