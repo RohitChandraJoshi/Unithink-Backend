@@ -5,7 +5,7 @@ const path = require('path');
 
 
 router.get('/', (req, res) => {
-  const filePath = path.join(__dirname, 'courses.json');
+  const filePath = path.join(__dirname, 'Courses.json');
   fs.readFile(filePath, 'utf8', (err, data) => {
     if (err) {
       return res.status(500).json({ error: 'Failed to read data' });
