@@ -7,24 +7,8 @@ dotenv.config();
 
 const PORT = process.env.PORT || 5000;
 
-app.use(cors());
+app.use(cors());  // Allow all origins
 app.use(express.json());
-
-const allowedOrigins = [
-  'https://unithinkportal.netlify.app',
-  'https://unithink.in',
-  'https://www.unithink.in'
-];
-
-app.use(cors({
-  origin: (origin, callback) => {
-    if (!origin || allowedOrigins.indexOf(origin) !== -1) {
-      callback(null, true);
-    } else {
-      callback(new Error('Not allowed by CORS'));
-    }
-  }
-}));
 
 mongoose.connect(process.env.MONGO_URI, { useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => console.log('MongoDB connected'))
